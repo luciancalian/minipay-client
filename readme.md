@@ -1,6 +1,3 @@
-https://link.minipay.xyz/browse?url=https://minifunder.ccprotocol.xyz
-
-
 <!-- TITLE -->
 <p align="center"> 
   <img width="100px" src="https://github.com/celo-org/celo-composer/blob/main/images/readme/celo_isotype.svg" align="center" alt="Celo" />
