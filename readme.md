@@ -1,4 +1,5 @@
-https://github.com/luciancalian/splitzify/blob/main/README.md
+https://link.minipay.xyz/browse?url=https://minifunder.ccprotocol.xyz
+
 
 <!-- TITLE -->
 <p align="center"> 
