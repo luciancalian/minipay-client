@@ -1,3 +1,5 @@
+https://github.com/luciancalian/splitzify/blob/main/README.md
+
 <!-- TITLE -->
 <p align="center"> 
   <img width="100px" src="https://github.com/celo-org/celo-composer/blob/main/images/readme/celo_isotype.svg" align="center" alt="Celo" />
